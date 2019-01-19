@@ -1,0 +1,1 @@
+Data visualization for world population using Pygal. Adapted from the book "Python Crash Course" by Eric Matthes.
